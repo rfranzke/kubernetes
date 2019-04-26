@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug encountered while operating Kubernetes
+about: Report a bug encountered while operating Gardener
 labels: kind/bug
 
 ---
@@ -20,10 +20,7 @@ If the matter is security related, please disclose it privately via https://kube
 **Anything else we need to know?**:
 
 **Environment**:
+- Gardener version:
 - Kubernetes version (use `kubectl version`):
 - Cloud provider or hardware configuration:
-- OS (e.g: `cat /etc/os-release`):
-- Kernel (e.g. `uname -a`):
-- Install tools:
-- Network plugin and version (if this is a network-related bug):
 - Others:
